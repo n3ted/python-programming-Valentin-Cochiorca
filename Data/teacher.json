@@ -1,0 +1,17 @@
+{
+    "firstname": "Valentin",
+    "secondname": "Cochiorca",
+    "age": 38,
+    "languages": [
+        "Python",
+        "C#"
+    ],
+    "contact_info": {
+        "telefon": "0762xxxxxx",
+        "email": [
+            "valentin.ceo@gmail.com",
+            "valentin2006ls@yahoo.com",
+            "test_mail@yahoo.com"
+        ]
+    }
+}
